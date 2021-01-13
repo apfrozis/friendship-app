@@ -1,5 +1,4 @@
 # friendship-app
-=======
 
 An application to find new groups of friends
 
