@@ -10,7 +10,7 @@ void main() => runApp(MaterialApp(
         // para efeitos de teste, podemos alterar este valor do initialRoute para o
         // caminho da página em que estás a trabalhar. Assim quando entras na aplicação,
         // entras diretamente para a página em que estás a trabalhar (e.g. '/home')
-        initialRoute: '/profile',
+        initialRoute: '/chat',
         routes: {
           '/': (context) => Loading(),
           '/profile': (context) => Profile(),
